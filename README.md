@@ -1,2 +1,2 @@
-# Data-Analysis-Projects
-Sharing my repo on data analysis projects on publicly available data. 
+# Data-Science-Projects
+Sharing my repo on data science projects on publicly available data. 
